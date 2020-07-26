@@ -23,7 +23,7 @@ Player must bounce from platfrom to platfrom, continously getting higher with ea
 * Health bar that increases and decreases depending on player performance
 * Score based on time survived and enimies killed
 * Every 30 seconds background color changes
-* link to knight/bat sprites: https://
+* link to knight/bat sprites: https://goglilol.itch.io/cute-knight
 
 ### Authors 
 This project was worked on and created by myself and my partner Cal Rushton.
