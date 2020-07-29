@@ -11,7 +11,9 @@ The file listed is the one that was submmitted for grading and no more work has 
 * Python 
 
 ### Screenshots of Game 
-![Alt Text]()
+![Alt Text](https://user-images.githubusercontent.com/60328293/88752560-39fcfe80-d128-11ea-86d0-6679640a6f85.png)
+
+![Alt Text](https://user-images.githubusercontent.com/60328293/88752533-2ce00f80-d128-11ea-97dd-d76166e6ef0a.png)
 
 
 ### How to Play 
