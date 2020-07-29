@@ -10,6 +10,10 @@ The file listed is the one that was submmitted for grading and no more work has 
 * PyCharm 
 * Python 
 
+### Screenshots of Game 
+![Alt Text]()
+
+
 ### How to Play 
 * Press spacebar to begin 
 * Use left and right arrow keys to manuever left and right
